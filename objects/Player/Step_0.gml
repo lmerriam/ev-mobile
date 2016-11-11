@@ -2,7 +2,7 @@
 
 // Turn speed
 if keyboard_check(vk_right) {
-	x_spd += turn_spd;
+	phy_rotation += turn_spd;
 }
 if keyboard_check(vk_left) {
 	phy_rotation -= turn_spd;	
