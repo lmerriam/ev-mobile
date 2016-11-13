@@ -4,3 +4,5 @@
 inertia = 0;
 phy_rotation = 0;
 turn_spd = 6;
+
+target_angle = 0;
