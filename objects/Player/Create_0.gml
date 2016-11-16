@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Set up player variables
 // You can write your code in this editor
 
 inertia = 0;

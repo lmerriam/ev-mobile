@@ -417,6 +417,82 @@
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "8b52941f-bad2-4ec2-bcf9-e520e8099d73",
+            "Value": {
+                "id": "f72f69f3-defd-462a-be77-271bc617d916",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\Controller\\Controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "42c761ba-5cdb-4062-919f-3949fb4e6011",
+            "Value": {
+                "id": "60aa999e-5b44-475d-aa21-83494a8be7d1",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\bg_stars\\bg_stars.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "45de1492-cd85-43df-bec4-c32f318609d3",
+            "Value": {
+                "id": "61706db8-7aef-4ce1-865a-6d08d0ddf413",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\bg_space\\bg_space.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6956d657-e23f-46f6-a30c-73fdbd4f16cf",
+            "Value": {
+                "id": "4cf70dc8-f597-43bf-8aac-681be9628dae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\\bg_nebula\\bg_nebula.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "room_order": [

@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Steering
 
 // Get the direction keys
 right_key = keyboard_check(vk_right);
@@ -31,10 +31,9 @@ inertia = clamp(inertia,0,7);
 // Get the difference between the current angle and the target angle
 angle_diff = angle_difference(image_angle,target_angle);
 
-// Rotate according to the difference
+// Rotate according to the difference between current angle and target angle, and the current inertia
 phy_rotation += abs(angle_diff) * .01 * inertia * sign(angle_diff);
 
-
+// Move the player
 phy_position_x = x + lengthdir_x(inertia,image_angle);
 phy_position_y = y + lengthdir_y(inertia,image_angle);
-
