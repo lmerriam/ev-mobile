@@ -44,7 +44,7 @@
             ]
         }
     ],
-    "height": 128,
+    "height": 7,
     "layers": [
         {
             "id": "dade0110-32ad-4b0f-86ee-3cca07c4da53",
@@ -54,7 +54,7 @@
             "blendMode": 0,
             "isLocked": false,
             "name": "Layer 1",
-            "opacity": 27,
+            "opacity": 50,
             "visible": true
         },
         {
@@ -75,7 +75,7 @@
     "swatchColours": null,
     "textureGroup": 0,
     "type": 0,
-    "width": 128,
+    "width": 7,
     "xorig": 0,
     "yorig": 0
 }
